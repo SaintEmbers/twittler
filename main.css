@@ -1,0 +1,49 @@
+
+html {
+	background-color: #1A90B8;
+}
+header{
+	
+	height: 100px;
+	font-family: "Courier New";
+	font-weight: bold;
+	font-size: 90px;
+	text-align: center;
+}
+.main {
+	top:110px;
+	display: table;
+	font-family: "Josefin Slab", sans-serif;
+	text-align: center;
+	padding:10px;
+	width: 500px;
+	margin:0 auto 10px;
+	border-width:5px;
+	border-style:double;
+	border-color:coral;
+	letter-spacing: 1.5px;
+	line-height: 25.25px
+}
+
+.mainUser {
+	display: table;
+	font-family: "Josefin Slab", sans-serif;
+	text-align: center;
+	padding:10px;
+	width: 500px;
+	margin:0 auto 10px;
+	border-width:5px;
+	border-style:double;
+	border-color:coral;
+	letter-spacing: 1.5px;
+	line-height: 25.25px
+}
+.highlight{
+	color: #FAAD93;
+}
+.remove {
+	display: none !important;
+}
+div{
+	background-color: white;
+}
